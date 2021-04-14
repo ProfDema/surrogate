@@ -1,2 +1,2 @@
 # surrogate
-Surrogate model for epileptic seizures
+Surrogate model for epileptic seizures dynamics
