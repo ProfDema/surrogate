@@ -1,0 +1,11 @@
+digraph {
+0 [label="0", style=filled, fillcolor="#00ffff"];
+1 [label="1", style=filled, fillcolor="#55aaff"];
+2 [label="2", style=filled, fillcolor="#aa55ff"];
+3 [label="3", style=filled, fillcolor="#ff00ff"];
+{rank=same; 0 }; 
+1 -> 0;
+2 -> 0;
+3 -> 2;
+3 -> 1;
+}
